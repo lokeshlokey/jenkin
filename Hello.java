@@ -1,5 +1,3 @@
-package pkg1;
-
 public class Hello {
 
 	public Hello() {
